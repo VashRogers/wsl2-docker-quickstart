@@ -357,3 +357,5 @@ Exemplo gerando um log na Área de trabalho
 ## Dúvidas
 
 * O WSL 2 funciona junto com outras máquinas virtuais como **VirtualBox** ou **VMWare**? Siga a [referência](https://docs.microsoft.com/pt-br/windows/wsl/wsl2-faq#will-i-be-able-to-run-wsl-2-and-other-3rd-party-virtualization-tools-such-as-vmware-or-virtualbox)
+
+testando git no wsl2
